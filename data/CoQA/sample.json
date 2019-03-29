@@ -1,0 +1,242 @@
+{
+  "version": [{"a":"1.0"}, {"b":"3.0"}],
+  "data": [
+    {
+      "source": "mctest",
+      "id": "3dr23u6we5exclen4th8uq9rb42tel",
+      "filename": "mc160.test.41",
+      "story": "Once upon a time, in a barn near a farm house, there lived a little white kitten named Cotton. Cotton lived high up in a nice warm place above the barn where all of the farmer's horses slept. But Cotton wasn't alone in her little home above the barn, oh no. She shared her hay bed with her mommy and 5 other sisters. All of her sisters were cute and fluffy, like Cotton. But she was the only white one in the bunch. The rest of her sisters were all orange with beautiful white tiger stripes like Cotton's mommy. Being different made Cotton quite sad. She often wished she looked like the rest of her family. So one day, when Cotton found a can of the old farmer's orange paint, she used it to paint herself like them. When her mommy and sisters found her they started laughing. \n\n\"What are you doing, Cotton?!\" \n\n\"I only wanted to be more like you\". \n\nCotton's mommy rubbed her face on Cotton's and said \"Oh Cotton, but your fur is so pretty and special, like you. We would never want you to be any other way\". And with that, Cotton's mommy picked her up and dropped her into a big bucket of water. When Cotton came out she was herself again. Her sisters licked her face until Cotton's fur was all all dry. \n\n\"Don't ever do that again, Cotton!\" they all cried. \"Next time you might mess up that pretty white fur of yours and we wouldn't want that!\" \n\nThen Cotton thought, \"I change my mind. I like being special\".",
+      "questions": [
+        {
+          "input_text": "What color was Cotton?",
+          "turn_id": 1
+        },
+        {
+          "input_text": "Where did she live?",
+          "turn_id": 2
+        },
+        {
+          "input_text": "Did she live alone?",
+          "turn_id": 3
+        } ],
+      "answers": [
+        {
+          "span_start": 59,
+          "span_end": 93,
+          "span_text": "a little white kitten named Cotton",
+          "input_text": "white",
+          "turn_id": 1
+        },
+        {
+          "span_start": 18,
+          "span_end": 80,
+          "span_text": "in a barn near a farm house, there lived a little white kitten",
+          "input_text": "in a barn",
+          "turn_id": 2
+        },
+        {
+          "span_start": 196,
+          "span_end": 215,
+          "span_text": "Cotton wasn't alone",
+          "input_text": "no",
+          "turn_id": 3
+        }],
+      "additional_answers": {
+        "0": [
+          {
+            "span_start": 68,
+            "span_end": 93,
+            "span_text": "white kitten named Cotton",
+            "input_text": "white",
+            "turn_id": 1
+          },
+          {
+            "span_start": 17,
+            "span_end": 93,
+            "span_text": " in a barn near a farm house, there lived a little white kitten named Cotton",
+            "input_text": "in a barn",
+            "turn_id": 2
+          },
+          {
+            "span_start": 192,
+            "span_end": 215,
+            "span_text": "But Cotton wasn't alone",
+            "input_text": "no",
+            "turn_id": 3
+          }],
+        "1": [
+          {
+            "span_start": 68,
+            "span_end": 74,
+            "span_text": "white ",
+            "input_text": "white",
+            "turn_id": 1
+          },
+          {
+            "span_start": 18,
+            "span_end": 27,
+            "span_text": "in a barn",
+            "input_text": "in a barn",
+            "turn_id": 2
+          },
+          {
+            "span_start": 202,
+            "span_end": 215,
+            "span_text": " wasn't alone",
+            "input_text": "No",
+            "turn_id": 3
+          }],
+        "2": [
+          {
+            "span_start": 68,
+            "span_end": 94,
+            "span_text": "white kitten named Cotton.",
+            "input_text": "white",
+            "turn_id": 1
+          },
+          {
+            "span_start": 17,
+            "span_end": 94,
+            "span_text": " in a barn near a farm house, there lived a little white kitten named Cotton.",
+            "input_text": "in a barn near",
+            "turn_id": 2
+          },
+          {
+            "span_start": 191,
+            "span_end": 316,
+            "span_text": " But Cotton wasn't alone in her little home above the barn, oh no. She shared her hay bed with her mommy and 5 other sisters.",
+            "input_text": "no",
+            "turn_id": 3
+          }]
+      },
+      "name": "mc160.test.41"
+    },
+    {
+      "source": "mctest",
+      "id": "3azhrg4cu4ktme1zh7c2ro3pn2430d",
+      "filename": "mc500.test.4",
+      "story": "Once there was a beautiful fish named Asta. Asta lived in the ocean. There were lots of other fish in the ocean where Asta lived. They played all day long. \n\nOne day, a bottle floated by over the heads of Asta and his friends. They looked up and saw the bottle. \"What is it?\" said Asta's friend Sharkie. \"It looks like a bird's belly,\" said Asta. But when they swam closer, it was not a bird's belly. It was hard and clear, and there was something inside it. \n\nThe bottle floated above them. They wanted to open it. They wanted to see what was inside. So they caught the bottle and carried it down to the bottom of the ocean. They cracked it open on a rock. When they got it open, they found what was inside. It was a note. The note was written in orange crayon on white paper. Asta could not read the note. Sharkie could not read the note. They took the note to Asta's papa. \"What does it say?\" they asked. \n\nAsta's papa read the note. He told Asta and Sharkie, \"This note is from a little girl. She wants to be your friend. If you want to be her friend, we can write a note to her. But you have to find another bottle so we can send it to her.\" And that is what they did.",
+      "questions": [
+        {
+          "input_text": "what was the name of the fish",
+          "turn_id": 1
+        },
+        {
+          "input_text": "What looked like a birds belly",
+          "turn_id": 2
+        },
+        {
+          "input_text": "who said that",
+          "turn_id": 3
+        },
+        {
+          "input_text": "Was Sharkie a friend?",
+          "turn_id": 4
+        },
+        {
+          "input_text": "did they get the bottle?",
+          "turn_id": 5
+        } ],
+      "answers": [
+        {
+          "span_start": 37,
+          "span_end": 43,
+          "span_text": " Asta.",
+          "input_text": "Asta.",
+          "turn_id": 1
+        },
+        {
+          "span_start": 167,
+          "span_end": 175,
+          "span_text": "a bottle",
+          "input_text": "a bottle",
+          "turn_id": 2
+        },
+        {
+          "span_start": 303,
+          "span_end": 346,
+          "span_text": " \"It looks like a bird's belly,\" said Asta.",
+          "input_text": "Asta.",
+          "turn_id": 3
+        }],
+      "additional_answers": {
+        "0": [
+          {
+            "span_start": 38,
+            "span_end": 42,
+            "span_text": "Asta",
+            "input_text": "Asta",
+            "turn_id": 1
+          },
+          {
+            "span_start": 167,
+            "span_end": 175,
+            "span_text": "a bottle",
+            "input_text": "a bottle",
+            "turn_id": 2
+          },
+          {
+            "span_start": 341,
+            "span_end": 345,
+            "span_text": "Asta",
+            "input_text": "Asta",
+            "turn_id": 3
+          },
+          {
+            "span_start": 288,
+            "span_end": 302,
+            "span_text": "friend Sharkie",
+            "input_text": "yes",
+            "turn_id": 4
+          } ],
+        "1": [
+          {
+            "span_start": 37,
+            "span_end": 42,
+            "span_text": " Asta",
+            "input_text": "Asta",
+            "turn_id": 1
+          },
+          {
+            "span_start": 250,
+            "span_end": 260,
+            "span_text": "the bottle",
+            "input_text": "the bottle",
+            "turn_id": 2
+          } ],
+        "2": [
+          {
+            "span_start": 38,
+            "span_end": 42,
+            "span_text": "Asta",
+            "input_text": "Asta",
+            "turn_id": 1
+          },
+          {
+            "span_start": 166,
+            "span_end": 175,
+            "span_text": " a bottle",
+            "input_text": "a bottle",
+            "turn_id": 2
+          },
+          {
+            "span_start": 341,
+            "span_end": 345,
+            "span_text": "Asta",
+            "input_text": "Asta",
+            "turn_id": 3
+          },
+          {
+            "span_start": 281,
+            "span_end": 302,
+            "span_text": "Asta's friend Sharkie",
+            "input_text": "yes",
+            "turn_id": 4
+          },
+          {
+            "span_start": 554,
+            "span_end": 577,
+            "span_text": " they caught the bottle",
+            "input_text": "yes",
+            "turn_id": 5
+          }]}}]}
